@@ -3,7 +3,7 @@
 
 Основной файл:
 
-- `DIPLOMA_ANALYSIS_GITHUB_CLEAN.ipynb`
+- `Diplom_analysis.ipynb`
 
 Notebook последовательно выполняет:
 
