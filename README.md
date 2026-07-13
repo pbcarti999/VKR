@@ -25,8 +25,8 @@ Notebook последовательно выполняет:
 
 Минимально ожидаемые файлы:
 
-- `Results_table-3.xlsx` — основная таблица с целями и результативностью;
-- файл стороны вмешательства с названием, содержащим `side`, `iside`, `interns` или близкие варианты;
+- https://docs.google.com/spreadsheets/d/19VG8QWPvHxmNsH0-j6ez6nIZpcaYz_sXIh9Wei7LwFM/edit?usp=drivesdk — основная таблица с целями и результативностью;
+- https://github.com/AlexNSV/country-merger - файл стороны вмешательства с названием, содержащим `side`, `iside`, `interns` или близкие варианты;
 - `merged_dataset_improved.csv` — показатели поддержки и объективного гуманитарного кризиса;
 - `Копия hum_crisis.xlsx` — субъективный гуманитарный кризис;
 - `Копия ethics_copy.xlsx` — поддержка, внимание и международно-правовые переменные.
